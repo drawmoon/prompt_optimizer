@@ -1,0 +1,29 @@
+*.py[cod]
+*.db
+assets/external/
+.web
+.states
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# pyenv
+.python-version
+
+# Caches / type checkers / formatters
+.mypy_cache/
+.pyre/
+.ruff_cache/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
